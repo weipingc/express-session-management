@@ -5,6 +5,6 @@ Resources
 ---------
 
 * Googled "node express session management"
-* https://www.geeksforgeeks.org/session-management-using-express-session-module-in-node-js/#:~:text=Session%20management%20can%20be%20done,itself%2C%20just%20the%20session%20ID.[Session Management using express-session Module in Node.js]
+* https://www.geeksforgeeks.org/session-management-using-express-session-module-in-node-js/#:~:text=Session%20management%20can%20be%20done,itself%2C%20just%20the%20session%20ID[Session Management using express-session Module in Node.js]
 * End
 
